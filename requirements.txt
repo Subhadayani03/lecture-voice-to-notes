@@ -1,6 +1,8 @@
 streamlit
-openai-whisper
-transformers
 torch
-nltk
-pydub
+transformers
+sentencepiece
+librosa
+soundfile
+numpy
+audioread
